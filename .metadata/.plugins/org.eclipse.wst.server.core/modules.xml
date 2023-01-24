@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:Learners" serverId="apache-tomcat-6.0.37 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:Learner_Academy" serverId="apache-tomcat-6.0.37 at localhost"/>
+  <module moduleId="org.eclipse.jst.jee.server:jspapp" serverId="apache-tomcat-8.5.78 at localhost"/>
+</modules>

@@ -1,0 +1,12 @@
+127.0.0.1 - - [14/Oct/2022:23:49:26 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [14/Oct/2022:23:50:47 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:50:50 +0530] "GET /Learners/Login.jsp HTTP/1.1" 200 1133
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:50:50 +0530] "GET /Learners/css/login.css HTTP/1.1" 404 781
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:50:50 +0530] "GET /Learners/css/background.jpg HTTP/1.1" 404 786
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:50:51 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:51:07 +0530] "GET /Learners/List-Student.jsp HTTP/1.1" 500 2749
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:54:46 +0530] "GET /Learners/Classes-List.jsp HTTP/1.1" 500 2749
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:55:11 +0530] "GET /Learners/Subject-List.jsp HTTP/1.1" 500 2749
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:56:30 +0530] "GET /Learners/List-Student.jsp HTTP/1.1" 500 2740
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:57:11 +0530] "GET /Learners/List-Student.jsp HTTP/1.1" 500 2740
+0:0:0:0:0:0:0:1 - - [14/Oct/2022:23:57:13 +0530] "GET /Learners/List-Student.jsp HTTP/1.1" 500 2217
